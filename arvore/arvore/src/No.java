@@ -1,9 +1,9 @@
 public class No{
     //conteudo
-    String valor;
+    String conteudo;
     No Aesquerda, Adireita;
 
-    public No(String valor){
+    public No(String conteudo){
 
     }
 }
